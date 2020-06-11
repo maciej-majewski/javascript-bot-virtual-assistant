@@ -1,2 +1,2 @@
 # javascript-bot-virtual-assistant
-Bot in JavaScript for virtual assistant functionality.
+Bot Project in JavaScript for virtual assistant functionality.
